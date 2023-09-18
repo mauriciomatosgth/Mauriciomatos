@@ -1,6 +1,5 @@
 ## Oi, Eu sou o Mauricio Matos
-- Estudo programação
-- Contate-me no email: mauricio_matoss@outlook.com
+- Estudo programação  
 - pronouns: ele/dele
 
 <div>
